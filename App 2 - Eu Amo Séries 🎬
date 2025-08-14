@@ -1,0 +1,16 @@
+Arquivos .dart da segunda aplicação:
+
+App 2 - Eu Amo Séries 🎬
+
+base_screen.dart
+custom_drawer.dart
+main.dart
+my_theme_model.dart
+rating_widget.dart
+star_rating.dart
+tv_show_card.dart
+tv_show_data.dart
+tv_show_form_screen.dart
+tv_show_form_screen.dart
+tv_show_model.dart
+tv_show_screen.dart
